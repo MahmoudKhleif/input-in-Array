@@ -5,3 +5,10 @@ C:\Users\Mahmo\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj
 C:\Users\Mahmo\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 C:\Users\Mahmo\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 C:\Users\Mahmo\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Mahmo\OneDrive\Skrivbord\New folder (2)\input-in-Array\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

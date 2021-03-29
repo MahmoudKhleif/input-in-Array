@@ -15,20 +15,20 @@ namespace Arayy
             {
 
 
-            //// this is how can we input the array length by user
+            // this is how can we input the array length by user
             ////this is string Array 
-            //Console.WriteLine("write ur array length");
-            //int Num1 = int.Parse(Console.ReadLine());
-            //string[] Name = new string[Num1];
-            //for (int i = 0; i < Name.Length; i++)
-            //{
-            //    Console.WriteLine("Write your Array Name" + (i + 1));
-            //    Name[i] = Console.ReadLine();
-            //}
-            //foreach (var n in Name)
-            //{
-            //    Console.Write(n + " ");
-            //}
+            Console.WriteLine("write ur array length");
+            int Num1 = int.Parse(Console.ReadLine());
+            string[] Name = new string[Num1];
+            for (int i = 0; i < Name.Length; i++)
+            {
+                Console.WriteLine("Write your Array Name" + (i + 1));
+                Name[i] = Console.ReadLine();
+            }
+            foreach (var n in Name)
+            {
+                Console.Write(n + " ");
+            }
 
 
             // this is int Array 
